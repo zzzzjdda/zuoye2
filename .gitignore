@@ -1,0 +1,11 @@
+# 过滤 Arduino 编译产物
+build/
+*.hex
+*.elf
+*.bin
+*.map
+*.o
+
+# 过滤操作系统缩略图
+.DS_Store
+Thumbs.db
